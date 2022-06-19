@@ -32,7 +32,7 @@ Next, the program will prompt you for the cryptocurrency abbreviation and the le
 
 The program will then show a matplotlib graph of the history of the coin that it is training from. This is a sample of the bitcoin graph for a month:
 
-![BTC_graph](/img/btc_sample.png)
+![BTC_graph](https://github.com/Temitopeishola/Hackathon/blob/main/btc_sample.png)
 
 Following that, the program will display another matplotlib generated graph of its
 
