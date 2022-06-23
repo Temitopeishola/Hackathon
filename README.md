@@ -22,7 +22,7 @@ After some time, this _should_ display:
 
 Using [Tensorflow/Theano] backend.
 
-prediction coins by Lachi Balabanski
+predicting coins by Lachi Balabanski
 
 ``` 
 
